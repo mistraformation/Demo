@@ -1,2 +1,6 @@
 Demo 2
+<<<<<<< HEAD
 Demo2 changed in original project
+=======
+Demo2 changed in forked project
+>>>>>>> upstream/master
